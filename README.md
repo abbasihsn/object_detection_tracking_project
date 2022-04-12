@@ -5,23 +5,14 @@
 
 
 # Directories
-- __michal__
-  - [LICENSE](LICENSE)
+- __root__
   - [README.md](README.md)
-  - __bin__
-    - [cli.js](bin/cli.js)
-  - [michal.png](michal.png)
-  - [node\_modules](node_modules)
-  - [npm\-debug.log](npm-debug.log)
-  - [package.json](package.json)
-  - [screen.png](screen.png)
-  - __scripts__
-    - [assert.js](scripts/assert.js)
-    - [fancom.js](scripts/fancom.js)
-    - [jshintrc.js](scripts/jshintrc.js)
-    - [package\-json.js](scripts/package-json.js)
-    - [precommit\-hook.js](scripts/precommit-hook.js)
-    - [scripts.js](scripts/scripts.js)
-    - [tests.js](scripts/tests.js)
-  - __tests__
-    - [michal\-tests.js](tests/michal-tests.js)
+  - __SFA3D__
+    - implementation of "super fast accurate 3D object detection/tracking on point cloud data"
+  - __mobile app__
+    - implementation of yolo object detection in flutter for android device realtime object detection 
+  - __Our training models__
+    - our code for model training including some knowned models like VGG16, light VGG, MobileNet
+  - __Python bin to pcd__
+    - python implementation of converting .bin files to .pcd files for kitti dataset
+    
