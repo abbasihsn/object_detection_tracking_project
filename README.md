@@ -19,5 +19,9 @@
     - output results for mobile application, SFA3D and state of the art MOT algorithms
   - __state of the art MOT__
     - state of the art mulitple object tracking method implementation
+  - __YOLO/ HOG+SVM__
+    - implementation of sliding window car detection using HOG+SVM
+    - implementation of YOLO algorithm
+  
   
     
