@@ -15,4 +15,9 @@
     - our code for model training including some knowned models like VGG16, light VGG, MobileNet
   - __Python bin to pcd__
     - python implementation of converting .bin files to .pcd files for kitti dataset
+  - __results__
+  - output results for mobile application, SFA3D and state of the art MOT algorithms
+  - __state of the art MOT__
+  - state of the art mulitple object tracking method implementation
+  
     
